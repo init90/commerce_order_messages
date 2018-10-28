@@ -1,0 +1,9 @@
+commerce_order_messages.config_form:
+  path: '/admin/config/commerce_order_messages'
+  defaults:
+    _form: '\Drupal\commerce_order_messages\Form\OrderMessagesConfigForm'
+    _title: 'Order Messages Config'
+  requirements:
+    _permission: 'access administration pages'
+  options:
+    _admin_route: TRUE

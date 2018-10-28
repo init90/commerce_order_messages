@@ -1,0 +1,7 @@
+commerce_order_messages.*.*:
+  type: config_object
+  label: 'Commerce order states messages'
+  mapping:
+    message:
+      type: text
+      label: 'Message'

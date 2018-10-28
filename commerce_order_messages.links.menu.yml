@@ -1,0 +1,5 @@
+commerce_order_messages.config_form:
+  title: 'Order Messages Config'
+  route_name: commerce_order_messages.config_form
+  parent: system.admin_config_system
+  weight: 99

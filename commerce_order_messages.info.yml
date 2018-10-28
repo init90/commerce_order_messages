@@ -1,0 +1,8 @@
+name: 'Commerce order messages'
+type: module
+description: 'Allows add custom messages for states in the commerce order module.'
+core: 8.x
+package: 'Custom'
+dependencies:
+  - commerce_order
+  - token

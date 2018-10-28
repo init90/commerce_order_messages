@@ -1,0 +1,3 @@
+services:
+  commerce_order_messages.messages_helper:
+    class: Drupal\commerce_order_messages\OrderMessagesHelper
